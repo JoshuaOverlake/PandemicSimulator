@@ -10,7 +10,7 @@ public class Person {
    private int age;
    private boolean preCondition;
    private boolean infected;
-   private boolean infect;
+  
 
    public Person(int age, boolean preCondition) {
       this.age = age;
